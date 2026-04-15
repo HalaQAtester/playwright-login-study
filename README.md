@@ -1,0 +1,1 @@
+[![Playwright Tests](https://github.com/HalaQAtester/playwright-login-study/actions/workflows/playwright.yml/badge.svg)](https://github.com/HalaQAtester/playwright-login-study/actions/workflows/playwright.yml)
